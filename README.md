@@ -1,4 +1,8 @@
 # sta141b-final3
+It is a holiday calculator.
+The API works slow, so if the page do not have a response, try to refresh several times until it show the correct output.
+Sometimes if you change the search condition (especially on tab 1), the output doesn't change. Try refresh your browser.
+
 This app has three main functions: 
 
 1. search for all holidays in a certain time period(month or year).
