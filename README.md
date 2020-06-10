@@ -7,7 +7,9 @@ This app has three main functions:
     
     (2) You enter a country and year, and press "Go". It will show you a table containing all the holidays in that year.
     
-    (3) Month is an optional search condition. If you click "Month(Optional)" and choose a month, it will include month as an extra search   condition.
+    (3) Month is an optional search condition. If you click "Month(Optional)" and choose a month, it will include month as an extra search condition.
+    
+    (4) There's a "download" button and you can download your search result. It will rename with country, year and month automatically.
 
 2. Find the next holiday in a country.
 
