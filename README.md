@@ -2,8 +2,11 @@
 This app has three main functions: 
 
 1. search for all holidays in a certain time period(month or year).
+
     (1) On the main panel it shows today's date
+    
     (2) You enter a country and year, and press "Go". It will show you a table containing all the holidays in that year.
+    
     (3) Month is an optional search condition. If you click "Month(Optional)" and choose a month, it will include month as an extra search   condition.
 
 2. Find the next holiday in a country.
